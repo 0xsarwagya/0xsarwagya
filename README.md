@@ -25,7 +25,7 @@ I am always eager to learn and improve my skills, and actively seeking opportuni
 
 - 📫 How to reach me: [@0xsarwagya](https://instagram.com/0xsarwagya)
 
-- ⚡ I Am Actively Looking For Research Internships and Part-time Jobs As A Student!
+- ⚡ Research Assistant at Fraunhofer IZFP (Data systems and Automation)
 
 - 💼 Co-Founder & CEO at [Esportzvio Private Limited](https://github.com/Esportzvio)
 
