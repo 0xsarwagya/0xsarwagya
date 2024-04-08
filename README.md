@@ -86,11 +86,8 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="40" alt="webpack logo"  />
 </div>
 
-### My Recent Medium Posts!
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=0xsarwagya" alt="Layout with last medium posts"  />
-</div>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### 📊 Leetcode Stats:
 
@@ -101,6 +98,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=0xsarwagya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ---
+
 <br />
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=0xsarwagya.0xsarwagya&"  />
