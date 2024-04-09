@@ -114,6 +114,7 @@
 ### 📕 My Latest Blogs:
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering JavaScript Promises: A Comprehensive Guide for Modern Developers](https://0xsarwagya.medium.com/mastering-javascript-promises-a-comprehensive-guide-for-modern-developers-aba979a3715d?source=rss-5025acd7b3dd------2)
 - [Navigate the Landscape of JavaScript Frameworks with Confidence!](https://0xsarwagya.medium.com/navigate-the-landscape-of-javascript-frameworks-with-confidence-3cf74a3077da?source=rss-5025acd7b3dd------2)
 <!-- BLOG-POST-LIST:END -->
 
