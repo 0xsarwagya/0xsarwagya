@@ -1,25 +1,11 @@
-## Hi there 🥀
+# 🛡️ ✊
 
-<p>
-  I am <a href="https://0xsarwagya.codes" target="_blank">Sarwagya</a>. Currently Building <a href="https://www.rebackk.xyz" target="_blank">Rebackk 🛡️ </a>
-</p>
-<p>
-  If you're interested in collaborating or just want to say hi, don’t hesitate to <a href="mailto:sarwagya.singh@esportzvio.com">reach out!</a>
-</p>
+I'm a cybersecurity engineer - currently studying and working Part-time at SAP.
 
-<h3>
-  Connect with Me
-</h3>
-<ul>
-  <li>
-    <b>Website</b>: <a href="https://0xsarwagya.codes/">0xsarwagya.codes</a>
-  </li>
-  <li>
-    <b>LinkedIn</b>: <a href="https://linkedin.com/in/0xsarwagya">Sarwagya Singh</a>
-  </li>
-  <li>
-    <b>Twitter</b>: <a href="https://x.com/in/0xsarwagya">0xsarwagya</a>
-  </li>
-</ul>
+Also building my tiny cybersecurity startup - [Esportzvio](https://esportzvio.com/)  
 
-<hr />
+Previously worked at: [`Fraunhofer IZFP`](https://www.izfp.fraunhofer.de/) & [`CISCO`](https://www.cisco.com/)
+
+
+|![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xsarwagya&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xsarwagya&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xsarwagya&theme=dracula)|
+|-----|------|------|
