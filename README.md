@@ -8,7 +8,7 @@ Previously worked at: [`Fraunhofer IZFP`](https://www.izfp.fraunhofer.de/), [`CI
 
 ### Commit History
 
-<img src="http://ghchart.rshah.org/0xsarwagya" alt="2016rshah's Github chart" />
+<img src="http://ghchart.rshah.org/0xsarwagya" alt="Sarwagya's Github chart" />
 
 ### My Stats
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0xsarwagya&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xsarwagya&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xsarwagya&theme=dracula)|
