@@ -1,0 +1,18 @@
+name: Daily Workflow
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This runs the workflow at 00:00 UTC every day
+
+jobs:
+  run_daily_task:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Get Current Contribution Chart
+        uses: Benbentwo/githubchart@0.1.0
+        with:
+          username: 0xsarwagya
+          file-output: ./contribution.svg
