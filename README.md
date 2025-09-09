@@ -1,6 +1,6 @@
 # 🛡️ ✊
 
-I'm an upcoming cybersecurity engineer - currently studying at [`Technische Universität München`](https://www.tum.de/) and Werkstudent in FullStack Engineering at [`Actimi`](https://actimi.com)
+I'm an upcoming cybersecurity engineer - currently studying at [`Technische Universität München`](https://www.tum.de/) and Werkstudent in FullStack Engineering at [`Actimi`](https://actimi.com) and building [`Vestcodes`](https://vestcodes.co)
 
 Also building my tiny startup - [Vestcodes](https://vestcodes.co/)  
 
